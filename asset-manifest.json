@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Recipe-Search-App/static/css/main.beae61bf.chunk.css",
+    "main.js": "/React-Recipe-Search-App/static/js/main.76803153.chunk.js",
+    "main.js.map": "/React-Recipe-Search-App/static/js/main.76803153.chunk.js.map",
+    "runtime-main.js": "/React-Recipe-Search-App/static/js/runtime-main.f7ceec95.js",
+    "runtime-main.js.map": "/React-Recipe-Search-App/static/js/runtime-main.f7ceec95.js.map",
+    "static/js/2.b9cb2ab0.chunk.js": "/React-Recipe-Search-App/static/js/2.b9cb2ab0.chunk.js",
+    "static/js/2.b9cb2ab0.chunk.js.map": "/React-Recipe-Search-App/static/js/2.b9cb2ab0.chunk.js.map",
+    "index.html": "/React-Recipe-Search-App/index.html",
+    "precache-manifest.b8033bd9f56cb5aab79b90141cb90962.js": "/React-Recipe-Search-App/precache-manifest.b8033bd9f56cb5aab79b90141cb90962.js",
+    "service-worker.js": "/React-Recipe-Search-App/service-worker.js",
+    "static/css/main.beae61bf.chunk.css.map": "/React-Recipe-Search-App/static/css/main.beae61bf.chunk.css.map",
+    "static/js/2.b9cb2ab0.chunk.js.LICENSE.txt": "/React-Recipe-Search-App/static/js/2.b9cb2ab0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7ceec95.js",
+    "static/js/2.b9cb2ab0.chunk.js",
+    "static/css/main.beae61bf.chunk.css",
+    "static/js/main.76803153.chunk.js"
+  ]
+}
